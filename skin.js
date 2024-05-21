@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 5.2.4/15996
 // Filename: cardboard2.ggsk
-// Generated Пт май 17 14:40:41 2024
+// Generated Вт май 21 17:23:26 2024
 
 function pano2vrSkin(player,base) {
 	var ggSkinVars = [];
@@ -1876,7 +1876,7 @@ function pano2vrSkin(player,base) {
 			this._ht_node_image__img['ondragstart']=function() { return false; };
 			this._ht_node_image.appendChild(this._ht_node_image__img);
 			this._ht_node_image.ggId="ht_node_image";
-			this._ht_node_image.ggParameter={ rx:0,ry:0,a:0,sx:2,sy:2 };
+			this._ht_node_image.ggParameter={ rx:0,ry:0,a:0,sx:3.35,sy:3.35 };
 			this._ht_node_image.ggVisible=true;
 			this._ht_node_image.className='ggskin ggskin_svg ';
 			this._ht_node_image.ggType='svg';
